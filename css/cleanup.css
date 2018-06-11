@@ -8,7 +8,9 @@
   display: none;
 }
 
-
+#wall div#tag-3 div#tag-3.slick {
+  display: none;
+}
 
 div div {
   display: none;
