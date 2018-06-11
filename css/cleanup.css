@@ -4,6 +4,6 @@
   display: none;
 }
 
-#tag-2:nth-of-type(1) {
+#tag-2:first {
   display: none;
 }
