@@ -9,7 +9,7 @@
 }
 
 /* Tag 3 */
-#wall + div:last-child {
+#wall + #tag-3 {
   display: none;
 }
 
