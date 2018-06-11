@@ -9,7 +9,7 @@
 }
 
 /* Tag 3 */
-#wall div:nth-of-type(3){
+#wall div:nth-of-type(2){
   display: none;
 }
 
